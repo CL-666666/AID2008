@@ -1,2 +1,5 @@
 def fun():
     print("hello world")
+
+
+print("鱼香肉丝")
